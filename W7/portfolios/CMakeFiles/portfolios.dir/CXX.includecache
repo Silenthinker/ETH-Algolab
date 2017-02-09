@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/vb_shared/W7/portfolios/portfolios.cpp
+iostream
+-
+cassert
+-
+cmath
+-
+vector
+-
+CGAL/basic.h
+-
+CGAL/QP_models.h
+-
+CGAL/QP_functions.h
+-
+CGAL/Gmpz.h
+-
+

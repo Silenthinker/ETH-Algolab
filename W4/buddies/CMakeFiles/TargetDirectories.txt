@@ -1,0 +1,3 @@
+/home/algolab/Desktop/vb_shared/W4/buddies/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/vb_shared/W4/buddies/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/vb_shared/W4/buddies/CMakeFiles/buddies.dir

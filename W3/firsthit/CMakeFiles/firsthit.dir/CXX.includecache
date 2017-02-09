@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/vb_shared/W3/firsthit/firsthit.cpp
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+iostream
+-
+cmath
+-
+vector
+-
+climits
+-
+queue
+-
+

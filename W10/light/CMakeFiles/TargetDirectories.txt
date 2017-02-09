@@ -1,0 +1,3 @@
+/home/algolab/Desktop/vb_shared/W10/light/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/vb_shared/W10/light/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/vb_shared/W10/light/CMakeFiles/light.dir

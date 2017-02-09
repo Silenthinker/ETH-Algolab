@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/vb_shared/W4/buddies/buddies.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+climits
+-
+cassert
+-
+string
+-
+unordered_map
+-
+boost/graph/adjacency_list.hpp
+-
+boost/graph/dijkstra_shortest_paths.hpp
+-
+boost/graph/prim_minimum_spanning_tree.hpp
+-
+boost/graph/kruskal_min_spanning_tree.hpp
+-
+boost/graph/connected_components.hpp
+-
+boost/graph/max_cardinality_matching.hpp
+-
+
